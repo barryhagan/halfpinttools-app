@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/halfpinttools-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/halfpinttools-app/static/js/main.0c2d19ec.chunk.js",
-    "main.js.map": "/halfpinttools-app/static/js/main.0c2d19ec.chunk.js.map",
+    "main.css": "/halfpinttools-app/static/css/main.97604f85.chunk.css",
+    "main.js": "/halfpinttools-app/static/js/main.3310b91e.chunk.js",
+    "main.js.map": "/halfpinttools-app/static/js/main.3310b91e.chunk.js.map",
     "runtime-main.js": "/halfpinttools-app/static/js/runtime-main.a3aae906.js",
     "runtime-main.js.map": "/halfpinttools-app/static/js/runtime-main.a3aae906.js.map",
-    "static/js/2.d5c98c7f.chunk.js": "/halfpinttools-app/static/js/2.d5c98c7f.chunk.js",
-    "static/js/2.d5c98c7f.chunk.js.map": "/halfpinttools-app/static/js/2.d5c98c7f.chunk.js.map",
+    "static/js/2.e34637ee.chunk.js": "/halfpinttools-app/static/js/2.e34637ee.chunk.js",
+    "static/js/2.e34637ee.chunk.js.map": "/halfpinttools-app/static/js/2.e34637ee.chunk.js.map",
     "index.html": "/halfpinttools-app/index.html",
-    "precache-manifest.16ced48609c9ec95a34819ffb63add42.js": "/halfpinttools-app/precache-manifest.16ced48609c9ec95a34819ffb63add42.js",
+    "precache-manifest.4a547a1b73d4e937e53082b323f87335.js": "/halfpinttools-app/precache-manifest.4a547a1b73d4e937e53082b323f87335.js",
     "service-worker.js": "/halfpinttools-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/halfpinttools-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.d5c98c7f.chunk.js.LICENSE.txt": "/halfpinttools-app/static/js/2.d5c98c7f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/halfpinttools-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.97604f85.chunk.css.map": "/halfpinttools-app/static/css/main.97604f85.chunk.css.map",
+    "static/js/2.e34637ee.chunk.js.LICENSE.txt": "/halfpinttools-app/static/js/2.e34637ee.chunk.js.LICENSE.txt",
+    "static/media/baseline-check_circle_outline-24px.svg": "/halfpinttools-app/static/media/baseline-check_circle_outline-24px.e0d99bb4.svg",
+    "static/media/baseline-cloud_upload-24px.svg": "/halfpinttools-app/static/media/baseline-cloud_upload-24px.3f7e59cc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a3aae906.js",
-    "static/js/2.d5c98c7f.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.0c2d19ec.chunk.js"
+    "static/js/2.e34637ee.chunk.js",
+    "static/css/main.97604f85.chunk.css",
+    "static/js/main.3310b91e.chunk.js"
   ]
 }
