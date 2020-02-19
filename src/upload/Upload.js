@@ -105,7 +105,7 @@ class Upload extends Component {
         disabled={this.state.files.length < 1 || this.state.uploading}
         onClick={this.uploadFiles}
       >
-        Create PDF
+        {this.state.uploading ? "Creating..." : "Create PDF"}
       </button>
     );
   }
