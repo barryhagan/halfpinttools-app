@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24c133ee69ef926732e2ed19ca5a1a85",
+    "revision": "1245d3f2e6b888bd0e2dcf975a024f05",
     "url": "/halfpinttools-app/index.html"
   },
   {
-    "revision": "cab5629120d97e681898",
+    "revision": "33655d0a2f6e0859ace5",
     "url": "/halfpinttools-app/static/css/main.0793f95a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/halfpinttools-app/static/js/2.44c87fd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cab5629120d97e681898",
-    "url": "/halfpinttools-app/static/js/main.ac89daca.chunk.js"
+    "revision": "33655d0a2f6e0859ace5",
+    "url": "/halfpinttools-app/static/js/main.833be039.chunk.js"
   },
   {
     "revision": "2d330142a4e080b3bcb2",
