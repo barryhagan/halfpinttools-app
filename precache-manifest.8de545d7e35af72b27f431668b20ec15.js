@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10a147fd34fc042b53d9aac95b065f8f",
+    "revision": "24c133ee69ef926732e2ed19ca5a1a85",
     "url": "/halfpinttools-app/index.html"
   },
   {
-    "revision": "9fee17225ebdf6f3e901",
-    "url": "/halfpinttools-app/static/css/main.97604f85.chunk.css"
+    "revision": "cab5629120d97e681898",
+    "url": "/halfpinttools-app/static/css/main.0793f95a.chunk.css"
   },
   {
-    "revision": "4b559b7b11b3431bc924",
-    "url": "/halfpinttools-app/static/js/2.e34637ee.chunk.js"
+    "revision": "4b43b125cc9e150f8630",
+    "url": "/halfpinttools-app/static/js/2.44c87fd4.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/halfpinttools-app/static/js/2.e34637ee.chunk.js.LICENSE.txt"
+    "url": "/halfpinttools-app/static/js/2.44c87fd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fee17225ebdf6f3e901",
-    "url": "/halfpinttools-app/static/js/main.3310b91e.chunk.js"
+    "revision": "cab5629120d97e681898",
+    "url": "/halfpinttools-app/static/js/main.ac89daca.chunk.js"
   },
   {
     "revision": "2d330142a4e080b3bcb2",
