@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/halfpinttools-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/halfpinttools-app/static/js/main.0c2d19ec.chunk.js",
+    "main.js.map": "/halfpinttools-app/static/js/main.0c2d19ec.chunk.js.map",
+    "runtime-main.js": "/halfpinttools-app/static/js/runtime-main.a3aae906.js",
+    "runtime-main.js.map": "/halfpinttools-app/static/js/runtime-main.a3aae906.js.map",
+    "static/js/2.d5c98c7f.chunk.js": "/halfpinttools-app/static/js/2.d5c98c7f.chunk.js",
+    "static/js/2.d5c98c7f.chunk.js.map": "/halfpinttools-app/static/js/2.d5c98c7f.chunk.js.map",
+    "index.html": "/halfpinttools-app/index.html",
+    "precache-manifest.16ced48609c9ec95a34819ffb63add42.js": "/halfpinttools-app/precache-manifest.16ced48609c9ec95a34819ffb63add42.js",
+    "service-worker.js": "/halfpinttools-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/halfpinttools-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d5c98c7f.chunk.js.LICENSE.txt": "/halfpinttools-app/static/js/2.d5c98c7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/halfpinttools-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3aae906.js",
+    "static/js/2.d5c98c7f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.0c2d19ec.chunk.js"
+  ]
+}
