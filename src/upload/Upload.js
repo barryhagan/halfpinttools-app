@@ -3,6 +3,9 @@ import Dropzone from "../dropzone/Dropzone";
 import "./Upload.css";
 import Progress from "../progress/Progress";
 import uploadIcon from "./baseline-check_circle_outline-24px.svg";
+import processImg from "./transform.png";
+import excelIcon from "./excel.png";
+import pdfIcon from "./pdf.png";
 
 class Upload extends Component {
   constructor(props) {
@@ -114,20 +117,33 @@ class Upload extends Component {
     return (
       <div className="Upload">
         <h2>Half Pint Consignor Label Maker</h2>
-        <div className="Title">STEP 1</div>
-        <div>
-          Create your inventory spreadsheet. You can download an example to get
-          started{" "}
-          <a
-            href={process.env.PUBLIC_URL + "/Consignor_Inventory_TEMPLATE.xlsx"}
-          >
-            here
-          </a>
-          .
-        </div>
-        <div className="Title">STEP 2</div>
-        <div>
-          Upload your completed inventory spreadsheet and create your PDF.
+
+        <div className="Content">
+          <div>
+            <div className="Title">
+              <img src={excelIcon} alt="Excel"></img> STEP 1
+            </div>
+            <div>
+              Fill out your inventory spreadsheet.{" "}
+              <a
+                href={
+                  process.env.PUBLIC_URL + "/Consignor_Inventory_TEMPLATE.xlsx"
+                }
+              >
+                Download
+              </a>{" "}
+              an example to get started.
+            </div>
+            <div className="Title">
+              <img src={pdfIcon} alt="PDF"></img> STEP 2
+            </div>
+            <div>
+              Upload your completed inventory spreadsheet and create your PDF.
+            </div>
+          </div>
+          <div>
+            <img src={processImg} alt="Workflow"></img>
+          </div>
         </div>
 
         {!this.state.pdfUrl && (

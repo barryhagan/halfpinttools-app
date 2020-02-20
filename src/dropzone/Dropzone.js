@@ -76,7 +76,8 @@ class Dropzone extends Component {
           onChange={this.onFilesAdded}
         />
         <img alt="upload" className="Icon" src={uploadIcon} />
-        <span>Upload Excel .xlsx</span>
+        <span>Upload Spreadsheet </span>
+        <span>(click or drag)</span>
       </div>
     );
   }
