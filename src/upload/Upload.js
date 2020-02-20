@@ -116,7 +116,7 @@ class Upload extends Component {
   render() {
     return (
       <div className="Upload">
-        <h2>Half Pint Consignor Label Maker</h2>
+        <h2>Half Pint Consignor Tag Maker</h2>
 
         <div className="Content">
           <div>
