@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/halfpinttools-app/precache-manifest.344c6a9d2c21aba3924a6f64368d91b5.js"
+  "/halfpinttools-app/precache-manifest.63231955274f7501a5b9e6abbc00600e.js"
 );
 
 self.addEventListener('message', (event) => {
